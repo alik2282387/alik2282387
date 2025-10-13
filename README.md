@@ -1,1 +1,1 @@
-![cover](./banner.svg). 
+![cover](banner.svg). 
