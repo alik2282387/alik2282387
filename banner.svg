@@ -66,22 +66,4 @@
       <text x="0" y="32" font-family="Inter, sans-serif" font-size="12" fill="#d1c9b8">Security Assessments · Internal & Red Team</text>
 
       <g transform="translate(0,56)" font-family="Fira Code, monospace" font-size="12" fill="#bfb7a6">
-        <text y="0">Reports · Scripts · Notes</text>
-        <text y="20">Responsible disclosure — notified affected parties</text>
-        <text y="40">Networks: OSI · TCP/IP · Small server deployments</text>
-      </g>
-    </g>
-
-    <!-- right-side vertical accent -->
-    <rect x="520" y="24" width="8" height="208" rx="4" fill="url(#accent)" filter="url(#softglow)" opacity="0.95"/>
-  </g>
-
-  <!-- Bottom strip: professional hashtag -->
-  <g transform="translate(0,290)">
-    <rect x="0" y="0" width="1280" height="30" fill="rgba(255,255,255,0.01)"/>
-    <text x="48" y="22" font-family="Inter, sans-serif" font-size="12" fill="#d0c6b0">#йоу · репозиторий: отчёты · скрипты · исследования</text>
-  </g>
-
-  <!-- fine grain overlay -->
-  <rect width="100%" height="100%" opacity="0.02" fill="black"/>
-</svg>
+        <text y="0">Reports · Scripts · Notes</text>>
